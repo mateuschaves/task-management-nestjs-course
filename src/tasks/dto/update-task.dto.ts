@@ -1,4 +1,4 @@
-export interface UpdateTaskDto {
+export class UpdateTaskDto {
     status: TaskStatus
 }
 
