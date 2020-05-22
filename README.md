@@ -8,6 +8,15 @@ Task management API developed in NestJS Zero to Hero course
 $ npm install
 ```
 
+## Functionalities
+
+- [x] create a task
+- [x] list all task
+- [x] show a task
+- [x] filter tasks by status, description and title
+- [x] update a task
+- [x] delete a task
+
 ## Running the app
 
 ```bash
