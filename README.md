@@ -1,6 +1,6 @@
 ## Description
 
-Task management API developed in NestJS Zero to Hero course
+:page_with_curl: Task management API developed in NestJS Zero to Hero course
 
 ## Installation
 
