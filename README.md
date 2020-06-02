@@ -1,6 +1,6 @@
 ## Description
 
-Task management API developed in NestJS Zero to Hero course
+:page_with_curl: Task management API developed in NestJS Zero to Hero course
 
 ## Installation
 
@@ -8,14 +8,14 @@ Task management API developed in NestJS Zero to Hero course
 $ npm install
 ```
 
-## Functionalities
+## Technologies
 
-- [x] create a task
-- [x] list all task
-- [x] show a task
-- [x] filter tasks by status, description and title
-- [x] update a task
-- [x] delete a task
+:white_check_mark: NestJS\
+:white_check_mark: Typescript\
+:white_check_mark: JWT Auth\
+:white_check_mark: Passport\
+:white_check_mark: TypeORM\
+:white_check_mark: PostgreSQL
 
 ## Running the app
 
