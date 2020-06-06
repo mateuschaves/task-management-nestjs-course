@@ -16,6 +16,7 @@ $ npm install
 :white_check_mark: Passport\
 :white_check_mark: TypeORM\
 :white_check_mark: PostgreSQL
+:white_check_mark: Jest
 
 ## Running the app
 
