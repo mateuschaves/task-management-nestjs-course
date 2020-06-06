@@ -2,6 +2,9 @@
 
 :page_with_curl: Task management API developed in NestJS Zero to Hero course
 
+## Documentation
+[Postman Collection](https://documenter.getpostman.com/view/4758899/SztK2QPQ?version=latest#6c0df52d-245f-4e89-af34-240ffdefb34b)
+
 ## Installation
 
 ```bash
